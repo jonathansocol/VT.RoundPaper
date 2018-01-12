@@ -1,0 +1,6 @@
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\bin\Debug\VT.RoundPaper.exe.config
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\bin\Debug\VT.RoundPaper.exe
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\bin\Debug\VT.RoundPaper.pdb
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\obj\Debug\VT.RoundPaper.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\obj\Debug\VT.RoundPaper.exe
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper\obj\Debug\VT.RoundPaper.pdb

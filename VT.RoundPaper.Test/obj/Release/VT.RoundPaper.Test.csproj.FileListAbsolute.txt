@@ -1,0 +1,16 @@
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\VT.RoundPaper.Test.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\VT.RoundPaper.Test.pdb
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\VT.RoundPaper.exe
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\VT.RoundPaper.pdb
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\VT.RoundPaper.exe.config
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\obj\Release\VT.RoundPaper.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\obj\Release\VT.RoundPaper.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\obj\Release\VT.RoundPaper.Test.dll
+C:\Users\Jonathan.Socol\Documents\Visual Studio 2017\Projects\VT.RoundPaper\VT.RoundPaper.Test\obj\Release\VT.RoundPaper.Test.pdb
